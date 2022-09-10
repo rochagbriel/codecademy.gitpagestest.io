@@ -1,0 +1,37 @@
+h1, h2, h3, p, a {
+    font-family: Helvetica, sans-serif;
+}
+
+.banner {
+    background-image: url(../images/pattern.jpeg);
+}
+
+.banner h1 {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+main h2 {
+    font-size: 32px;
+    color: white;
+    font-weight: bold;
+}
+
+main a {
+    color: blue;
+    font-weight: bold;
+}
+
+#brushes {
+    background-color: mediumspringgreen;
+}
+
+#frames {
+    background-color: lightcoral;
+}
+
+#paint {
+    background-color: skyblue;
+}
